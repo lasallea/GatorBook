@@ -1,6 +1,6 @@
 # Gator Book
 ## Authors:
 - Michel Gonzalez
-- Team member one enter name here
+- Alyssa LaSalle
 - Team member two enter name here
 - Team member three enter name here
